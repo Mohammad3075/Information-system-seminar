@@ -269,4 +269,4 @@ Agarwal et al. (2018) A reductions approach to fair classification (Exponentiate
 
 ## 13. Use of generative AI
 
-Parts of the code were written with the help of Claude (Anthropic). As required by the seminar, a summary of the AI use and the chat protocol are submitted with the paper. The team is responsible for the correctness of all code and results.
+Parts of the code were written with the help of Claude (Anthropic), Gemini, and ChatGPT. The team is responsible for the correctness of all code and results.
