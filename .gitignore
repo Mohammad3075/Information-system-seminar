@@ -1,0 +1,11 @@
+.venv/
+.vscode/
+
+# Generated experiment data, figures, and result tables
+data/
+figures/
+results/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
